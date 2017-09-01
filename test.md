@@ -2,4 +2,4 @@
 
 
 input local figures
-![local image](/test)
+![local image](/test/My Start Wallpapers 7083753326.jpg)
