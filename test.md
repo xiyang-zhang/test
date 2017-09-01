@@ -5,4 +5,4 @@ input online figures
 
 input local figures
 
-![another image test](/image/image/My Start Wallpapers 3703771069.jpg)
+![another image test](https://github.com/zhang-ri/image/My Start Wallpapers 3703771069.jpg)
